@@ -2,7 +2,7 @@
   "name": "crimboscript",
   "version": "1.0.0",
   "description": "Just some KoL scripts",
-  "main": "main.js",
+  "main": "./KoLmafia/scripts/main.js",
   "engines": {
     "node": ">=22.13.0"
   },
